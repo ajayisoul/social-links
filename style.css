@@ -13,9 +13,9 @@ background-color: black;
     background-color: rgb(56, 54, 54);
     height: 690px;
 width: 500px;
-top: 50px;
-left: 300px;
-margin: 100px;
+position: relative;
+left:900px;
+top: 100px;
 border: 5px solid;
 
 
