@@ -1,0 +1,99 @@
+body{
+background-color: black;
+
+
+
+}
+.solomon{
+    /* font-size: large; */
+    position: relative;
+    left: 130px;
+}
+.yomi{
+    background-color: rgb(56, 54, 54);
+    height: 690px;
+width: 500px;
+top: 50px;
+left: 300px;
+margin: 100px;
+border: 5px solid;
+
+
+border-radius: 15px;
+}
+/* p{ 
+    position: relative;
+    left: 50px;
+    font-size: larger;
+font-weight: 400px;
+}*/
+img{
+    position: relative;
+    left: 150px;
+    border-radius: 90px;
+    margin-top: 40px;
+    
+}
+button{
+    color: white;
+    background-color: grey;
+   width: 250px;
+   height: 40px;
+   border-radius: 5px;
+   font-size: larger;
+   font-family: 'Times New Roman', Times, serif;
+border-top: 0px;
+position: relative;
+top: 120px;
+}
+.boss{
+    position: absolute;
+    left: 200px;
+    color: red;
+}
+.boss2{
+    position: relative;
+    left: 100px;
+    
+}
+
+.jessica{position: absolute;
+    margin-left: 150px;
+    margin-left: 160px;
+    margin-top: 0px;
+    color: white;
+    font-size: xx-large;
+}
+.london{
+    position: absolute;
+    margin-left: 150px;
+    margin-left: 160px;
+    margin-top: 30px;
+   font-size: large;
+    color: rgba(123, 192, 44, 0.897);
+
+}
+.Front{
+    position: absolute;
+    margin-left: 150px;
+    font-size: large;
+    margin-top: 56px;
+    margin-left: 130px;
+    color: white;
+    
+}
+.randal{
+    line-height: 100px;
+text-align: center;
+}
+/*  
+.parent{ position: absolute;
+    margin-left: 150px;
+    line-height: 30px;
+    margin-top: 45px;
+    text-align: center;
+    
+}*/
+/*    position: absolute;
+color: blue;
+box-sizing: border-box; */
